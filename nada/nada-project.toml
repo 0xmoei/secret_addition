@@ -1,0 +1,8 @@
+name = "nada"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/secret_addition.py"
+name = "secret_addition"
+prime_size = 128
