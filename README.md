@@ -1,6 +1,6 @@
 ## Nextjs Example for Create Nillion App (CNA)
 
-![Example Demo](./public/example_demo.png)
+![Screenshot_445](https://github.com/user-attachments/assets/40430fa3-b4e3-4f59-a319-8694b6ef1707)
 
 Welcome the Nextjs Example for CNA.
 
